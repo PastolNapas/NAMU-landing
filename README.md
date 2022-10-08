@@ -9,11 +9,11 @@ Check font styles. Use [Playfair Display](https://fonts.google.com/specimen/Play
 - Mobile (> 320px)
 
 1. Implement the header with menu.
-2. Implement Актуальтні виставки block.
-3. Implement Найближчі події block.
-4. Implement Сплануйте візит до музею block.
-5. Implement Новини block with the three cards.
-6. Implement Підпишіться на дайджест block.
+2. Implement `Актуальтні виставки` block.
+3. Implement `Найближчі події` block.
+4. Implement `Сплануйте візит до музею` block.
+5. Implement `Новини` block with the three cards.
+6. Implement `Підпишіться на дайджест` block.
 7. Implement footer.
 
     - [DEMO LINK](https://PastolNapas.github.io/NAMU-landing/)
