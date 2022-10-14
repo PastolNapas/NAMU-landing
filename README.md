@@ -1,4 +1,4 @@
-# NAMU landing page
+# Landing page for National Art Museum of Ukraine
 Implement landing page according to [Figma design](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957) - Use HTML5, SCSS, Flex-box, Grid, JavaScript, BEM, Gulp.
 
 The landing is adaptive to different screen extensions, has a stylish design, contains a swiper with slides, burger menu, links, animations and a form to fill.
